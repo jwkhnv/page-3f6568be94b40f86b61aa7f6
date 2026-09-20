@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "6a4179d11b4b28c0a20d69aa",
+  "owner": "jwkhnv",
+  "repo": "page-3f6568be94b40f86b61aa7f6",
+  "title": "E",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "3f6568be94b40f86b61aa7f6",
+      "a": "E",
+      "b": "2027官方最新地址导航",
+      "entity": "E",
+      "brand": "E",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "e4f95233b2ada20f15bc72f7cf58324c6c1d77df30e6df674664176056684379",
+      "content": {
+        "primary_entity": "E",
+        "keyword1": "E",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_CLIENTS_INTRO": "Windows、macOS、iOS、Android 与路由器可按系统选择对应客户端。",
+          "AI_CLIENTS_TITLE": "客户端适配",
+          "AI_CLOSING_TEXT": "按设备与用量选定套餐，完成订阅配置后即可开始使用。",
+          "AI_CLOSING_TITLE": "选对套餐，连接更顺畅",
+          "AI_DESCRIPTION": "，为跨境游戏、短视频、远程办公与流媒体访问提供加速订阅，支持多平台客户端接入，按设备数量与月度流量灵活选择基础版、旗舰版或团队版。",
+          "AI_FEATURES_INTRO": "从设备数量、月流量与订阅周期三个维度挑选合适套餐。",
+          "AI_FEATURES_TITLE": "套餐与设备要点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB 流量、支持 3 台设备同时在线，适合手机与笔记本日常使用。",
+          "AI_FEATURE_TEXT_2": "旗舰版每月 300GB 流量、支持 5 台设备，含 IPLC 专线游戏加速优化与流媒体解锁。",
+          "AI_FEATURE_TEXT_3": "团队版每月 1000GB 流量、支持 20 台设备，提供专属高带宽节点与企业路由定制。",
+          "AI_FEATURE_TITLE_1": "入门轻量",
+          "AI_FEATURE_TITLE_2": "均衡旗舰",
+          "AI_FEATURE_TITLE_3": "团队多设备",
+          "AI_GUIDE_INTRO": "三步完成套餐选择与订阅配置。",
+          "AI_GUIDE_TITLE": "使用指引",
+          "AI_HERO_INTRO": "面向跨境访问场景的订阅式加速服务，围绕设备数量、月流量与计费周期提供三档套餐，可搭配多种客户端使用。",
+          "AI_HERO_SUBTITLE": "多设备跨境加速订阅",
+          "AI_HIGHLIGHT_1": "三档月流量可选",
+          "AI_HIGHLIGHT_2": "同时在线 3 台、5 台或 20 台设备",
+          "AI_HIGHLIGHT_3": "月付灵活，年付更省",
+          "AI_PLANS_INTRO": "基础版 ¥15/月，旗舰版 ¥35/月，团队版 ¥85/月；年付分别为 ¥150、¥350 与 ¥850。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "按设备数量与月度流量确定基础版、旗舰版或团队版，评估月付与年付周期。",
+          "AI_STEP_TEXT_2": "核对系统版本与客户端兼容要求，确认路由器或移动端能否正常导入订阅。",
+          "AI_STEP_TEXT_3": "按对应客户端文档导入订阅链接，保存节点后即可开始加速访问。",
+          "AI_STEP_TITLE_1": "选定套餐",
+          "AI_STEP_TITLE_2": "核对适配",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "多端加速，套餐自选",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "基础版和旗舰版怎么选？",
+          "AI_FAQ_ANSWER_1": "基础版提供 100GB 月流量与 3 台设备，适合单人日常使用；旗舰版 300GB 与 5 台设备，并含流媒体解锁和 IPLC 专线，适合多人或对游戏延迟有要求的场景。",
+          "AI_FAQ_QUESTION_2": "团队版支持多少台设备？",
+          "AI_FAQ_ANSWER_2": "团队版支持 20 台设备同时在线，月流量 1000GB，节点为 VIP 高带宽线路，并支持企业定制路由与专属客户经理服务。",
+          "AI_FAQ_QUESTION_3": "订阅可以按月付还是按年付？",
+          "AI_FAQ_ANSWER_3": "三档均支持按月或按年。基础版年付 ¥150，旗舰版年付 ¥350，团队版年付 ¥850，年付比按月支付更省。",
+          "AI_FAQ_QUESTION_4": "客户端如何按设备选择？",
+          "AI_FAQ_ANSWER_4": "根据设备系统选择对应客户端，Windows、macOS、Android、iOS 分别有适配版本，导入订阅链接后按客户端文档说明连接节点。",
+          "AI_FAQ_QUESTION_5": "IPLC 专线对游戏有什么帮助？",
+          "AI_FAQ_ANSWER_5": "旗舰版提供的 IPLC 专线节点针对游戏加速做优化，可降低部分跨区游戏的延迟和波动，团队版的高带宽节点也适合多人同时使用。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "jocowd.cn",
+    "host": "jocowd.cn"
+  },
+  "file_hashes": {
+    "index.html": "ff5d3ac65270e9797ad4fdfb9bd22b27e79b09150a4b33a3174402bde2accf05",
+    "sitemap.xml": "37fc9f8e37ce63e1844ac859bab0c3d490996c0f56fec4fe535ec497ef56ebab",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "2a35762d8088149f3d577e58af0a81313962d1455cfcd14e8d7e096a4d6149ba",
+    "robots.txt": "484ea6c87fe8351b4a452a62974a51c25ac65e15c3b941340256d3b1fbf452fc",
+    "7dba9b7867ee4fafa903f73f77d9ac8e.txt": "f924545674f142a499099248f4318f824dafd4e00d7def81c6d21877b0c76c4d"
+  },
+  "revision": "db0e4f4dcf99db6c7dd4686f71055b24212a1c934e5ad043ff3a6f352f995ed5"
+}
